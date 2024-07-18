@@ -8,6 +8,8 @@ public class TestTimer extends Timer {
         return currentTime;
     }
 
+    // comment added
+
     public void setTime(final long currentTime) {
         this.currentTime = currentTime;
     }
